@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I am Prithvi👋
+<h1 align="center">
+ Hi there, I am Prithvi👋
+ I am a Competitive Programmer 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PrithviS18&label=Profile%20views&color=0e75b6&style=flat" alt="Prithvi Sen" /> </p>
 <p align="center"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrithviS18&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"</p>
